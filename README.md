@@ -1,11 +1,5 @@
-# Data 11ty Theme
+# Homeless Hacker Donations Page
 
-Open source <a href="11ty.io">11ty.io</a> theme designed for reporting & data-visualization.
+This repository hosts the Homeless Hacker's Donations Page website. This website shows current needs, donations, and how far we are to achieving certain goals.
 
-### Demo
-
-A live demo can be found here: <a href="https://data11ty.netlify.com/">data11ty.netlify.com</a>
-
-### Setup
-
-Be sure to change all information included in `_data` and `package.json` to reflect your own project details.
+It is a work in progress - thank you!
